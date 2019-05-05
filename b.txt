@@ -1,2 +1,4 @@
-this is second file to be commited but this is developed in feature branch
+this is second file to be commited but this is developed in feature branch 
 i tried modifying the file in newtest branch
+i am just checking how the merge works when i tries to edit the same file in different branch
+feature1
